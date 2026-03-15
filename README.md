@@ -124,5 +124,6 @@ def train_model(model, train_loader, test_loader, loss_fn, optimizer, epochs=3):
 
 ### Sample Text Prediction
 
-
+![NER Output](https://raw.githubusercontent.com/Yashaswini8/NER-using-LSTM/b7b4f385b63d62f66f88a22cdc7cb5f30e20ae79/Screenshot%202026-03-15%20221819.png)
 ## RESULT
+The Named Entity Recognition (NER) model based on an LSTM network was successfully implemented using PyTorch.
