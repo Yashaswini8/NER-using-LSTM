@@ -119,10 +119,10 @@ def train_model(model, train_loader, test_loader, loss_fn, optimizer, epochs=3):
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-
+![NER Output](https://raw.githubusercontent.com/Yashaswini8/NER-using-LSTM/9cd690d7889cb6068cce1e85df3a6097863418be/Screenshot%202026-03-15%20221607.png)
 
 
 ### Sample Text Prediction
-Include your sample text prediction here.
+
 
 ## RESULT
